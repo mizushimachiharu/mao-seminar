@@ -3,9 +3,9 @@
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
 
-# ディレクトリ構成
-```
-seminar/
+＃フォルダ
+修正
+セミナー/
 ├─ index.html        # トップページ
 ├─ member.html       # メンバー紹介ページ
 ├─ work.html         # ゼミ活動紹介ページ
